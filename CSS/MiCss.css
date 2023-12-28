@@ -1,0 +1,23 @@
+﻿#menu{
+   display:block;
+	background-color:#333333;
+	}
+li{
+background:black;
+display:inline;
+color:#FF0000;
+text-align:center;
+margin-bottom:15px auto;
+}
+	aside{
+	float:right;
+	background:
+	#FF9900;
+	border-color:black;
+	border-style:solid;
+	box-shadow:#C0C0C0,5px, 5px;
+
+	}
+ body{
+	background-color:#333333
+}

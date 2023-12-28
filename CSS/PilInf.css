@@ -1,0 +1,50 @@
+﻿h1{
+	border-bottom-color: #CC3300;
+	border-bottom-width: 10px;
+	border: #CC3300 solid;
+	color: #FF0000;
+	text-aling: center;
+	background-color: black;
+	background: -moz-linear-gradient(top,black,#666666);
+	background: -webkit-linear-gradient(top,black,#666666);
+	background: -ms-linear-gradient(top,black,#666666);
+	background: -o-linear-gradient(top,black,#666666);
+	width: 25%;
+	border-radius: 15px 15px 15px 15px;
+	margin:15px,auto;
+	box-shadow:#800000,5px, 5px;
+}
+figure{
+	float:left;
+}
+/*Si haces esto significa al tocar*/
+figure img:hover{
+-moz-transform:scale(1.2);
+-webkit-transform:scale(1.2);
+-ms-transform:scale(1.2);
+-o-transform:scale(1.2);
+
+
+}
+figcaption {
+background-color:black;
+color:
+}
+#Valurin{
+	color:#FFFFFF;
+}
+#Payne{
+	color:#660066;
+}
+#Demon{
+	color:#009900;
+}
+#Imoleph{
+	color:#990099;
+}
+#Yuki{
+	color:aqua;
+}
+#DarkSorcerer{
+	color:#CCCCCC;
+}
